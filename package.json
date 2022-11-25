@@ -1,0 +1,26 @@
+{
+    "name": "playwright_plus_javascript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bizarre444/playwright_plus_javascript.git"
+    },
+    "author": "Olya Bizarre",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/bizarre444/playwright_plus_javascript/issues"
+    },
+    "homepage": "https://github.com/bizarre444/playwright_plus_javascript#readme",
+    "dependencies": {
+        "@playwright/test": "^1.28.1",
+        "playwright": "^1.28.1"
+    },
+    "devDependencies": {
+        "mocha": "^10.1.0"
+    }
+}
